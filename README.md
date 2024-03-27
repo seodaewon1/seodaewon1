@@ -1,10 +1,15 @@
 ## 🎯 Portfolio Microverse
 
+
 ## 💻 Built With
+-Technology: HTML, CSS, JAVASCRIPT   
+-Tools: VS Code, GIT, GITHUB   
 
 ## 👋 Show your support
 
-## 📧 email(eodnjs1019@naver.com) 
+
+## 📧 Email
+[mail](eodnjs1019@naver.com) 
 
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
