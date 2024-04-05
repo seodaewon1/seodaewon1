@@ -18,6 +18,12 @@
 [MySQL](https://seodaewon1.github.io/class2024/mysql/index.html)  
 
 [퀴즈게임](https://seodaewon1.github.io/class2024/quiz/index.html)
+
+
+## 📝 My blog
+(https://seodaewon1.github.io)   
+
+
 ## 📧 Email
 (eodnjs1019@naver.com) 
 
@@ -28,5 +34,3 @@
 ![daewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=daewon&show_icons=true&theme=tokyonight)
 
 
-## 📝 My blog
-(https://seodaewon1.github.io)
