@@ -18,7 +18,9 @@
 [MySQL](https://seodaewon1.github.io/class2024/mysql/index.html)  
 
 [퀴즈게임](https://seodaewon1.github.io/class2024/quiz/index.html)
-## 📧 [Email](eodnjs1019@naver.com) 
+## 📧 Email
+(eodnjs1019@naver.com) 
 
 
-## 📞 Phone number   (+82 010-5702-3088)
+## 📞 Phone number   
+(+82 010-5702-3088)
