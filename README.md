@@ -3,7 +3,7 @@
 ## 🎯 Profile
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeoDaeWon1&fontSize=90)
 
-<div align ="center">
+<div align ="left">
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&random=false&width=700&lines=Hello.+My+name+is+Dae+won.+I+want+Front+end+developer." alt="Typing SVG" /></a>
 </h2></div>
 
