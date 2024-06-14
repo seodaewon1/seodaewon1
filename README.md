@@ -13,7 +13,7 @@
 ## Portfolio
 [BOOKING] (booking-ruddy.vercel.app)
 
-## 🎂 Making
+## 2024. 03. 18 ~
 [Git Hub] (https://github.com/seodaewon1/seodaewon1)   
 
 [Main] (https://seodaewon1.github.io/class2024/)     
