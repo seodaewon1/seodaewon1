@@ -10,15 +10,23 @@
 ## 💻 Skill
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>  <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 
+## Portfolio
+[BOOKING] (booking-ruddy.vercel.app)
+
 ## 🎂 Making
-[Git Hub](https://github.com/seodaewon1/seodaewon1)   
+[Git Hub] (https://github.com/seodaewon1/seodaewon1)   
 
-[메인 페이지](https://seodaewon1.github.io/class2024/)     
+[Main] (https://seodaewon1.github.io/class2024/)     
 
-[MySQL](https://seodaewon1.github.io/class2024/mysql/index.html)  
+[YoutubeAPi] (attraction-three.vercel.app)
 
-[퀴즈게임](https://seodaewon1.github.io/class2024/quiz/index.html)
+[PlayList] (vue-port-sandy.vercel.app)
 
+[PHP] (http://eodnjs1019.dothome.co.kr/)
+
+[MySQL] (https://seodaewon1.github.io/class2024/mysql/index.html)  
+
+[Quiz] (https://seodaewon1.github.io/class2024/quiz/index.html)
 
 ## 📝 My blog
 (https://seodaewon1.github.io)   
