@@ -24,11 +24,11 @@
 
 [Main] (https://seodaewon1.github.io/class2024/)     
 
-[YoutubeAPi] (attraction-three.vercel.app)   
+[YoutubeAPi] (https://attraction-three.vercel.app/)   
 
-[PlayList] (playlist-topaz.vercel.app)   
+[PlayList] (https://playlist-topaz.vercel.app/)   
 
-[Vue] (vue-port-sandy.vercel.app)   
+[Vue] (https://vue-port-sandy.vercel.app/))   
 
 [PHP] (http://eodnjs1019.dothome.co.kr/)
 
