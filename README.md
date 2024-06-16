@@ -26,6 +26,7 @@
 
 [YoutubeAPi] (attraction-three.vercel.app)
 
+[PlayList] (playlist-topaz.vercel.app)
 [Vue] (vue-port-sandy.vercel.app)
 
 [PHP] (http://eodnjs1019.dothome.co.kr/)
