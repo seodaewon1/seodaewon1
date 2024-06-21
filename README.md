@@ -28,7 +28,9 @@
 
 [PlayList] (https://playlist-topaz.vercel.app/)   
 
-[Vue] (https://vue-port-sandy.vercel.app/))   
+[MOVIE] (https://vue-mvking.web.app/)
+
+[PROFILE-Vue] (https://vue-port-sandy.vercel.app/))   
 
 [PHP] (http://eodnjs1019.dothome.co.kr/)
 
