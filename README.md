@@ -16,7 +16,7 @@
 <img alt="git" src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" height="25px"/>    
 
 ## Portfolio
-[BOOKING] (booking-ruddy.vercel.app)
+[BOOKING] (https://booking-ruddy.vercel.app/)
 
 
 ## 2024. 03. 18 ~
