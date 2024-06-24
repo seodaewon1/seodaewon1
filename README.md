@@ -16,7 +16,9 @@
 <img alt="git" src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" height="25px"/>    
 
 ## Portfolio
-[BOOKING] <br/> - 자격증 책들을 모아 각각 사이트에서 순위와 가격을 비교해주는 사이트입니다. <br/> (https://github.com/seodaewon1/booking)
+[BOOKING] - 자격증 책들을 모아 각각 사이트에서 순위와 가격을 비교해주는 사이트입니다.
+[WEB] (https://github.com/seodaewon1/booking)
+[SITE] (booking-ruddy.vercel.app)
 
 
 ## 2024. 03. 18 ~
