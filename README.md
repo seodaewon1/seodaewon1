@@ -23,7 +23,7 @@
 
 ## 2024. 03. 18 ~
 ### Git Hub
-GitHb 메인 페이지입니다.
+GitHb 메인 페이지입니다.   
 (https://github.com/seodaewon1/seodaewon1)   
 
 ### Main 
