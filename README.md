@@ -24,13 +24,13 @@
 
 [Main] (https://seodaewon1.github.io/class2024/)     
 
-[YoutubeAPi] (https://attraction-three.vercel.app/)   
+[YoutubeAPi] (https://github.com/seodaewon1/attraction)
 
-[PlayList] (https://playlist-topaz.vercel.app/)   
+[PlayList] (https://github.com/seodaewon1/playlist)   
 
-[MOVIE] (https://vue-mvking.web.app/)
+[MOVIE] (https://github.com/seodaewon1/mvking-vue)
 
-[PROFILE-Vue] (https://vue-port-sandy.vercel.app/))   
+[PROFILE-Vue] (https://github.com/seodaewon1/vue-port)   
 
 [PHP] (http://eodnjs1019.dothome.co.kr/)
 
