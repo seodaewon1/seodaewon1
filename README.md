@@ -1,4 +1,4 @@
-<div align ="center"> 
+<div align ="right"> 
   
 ## 🎯 Profile
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeoDaeWon1&fontSize=90)
