@@ -1,4 +1,4 @@
-<div align ="left"> 
+<div align ="center"> 
   
 ## 🎯 Profile
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeoDaeWon1&fontSize=90)
@@ -20,9 +20,10 @@
 
 
 ## 2024. 03. 18 ~
-[Git Hub] (https://github.com/seodaewon1/seodaewon1)   
+[Git Hub]
+(https://github.com/seodaewon1/seodaewon1)   
 
-[Main] (https://seodaewon1.github.io/class2024/)     
+[Main]   (https://seodaewon1.github.io/class2024/)     
 
 [YoutubeAPi] (https://github.com/seodaewon1/attraction)
 
