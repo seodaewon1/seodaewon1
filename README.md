@@ -20,24 +20,23 @@
 
 
 ## 2024. 03. 18 ~
-[Git Hub]
-(https://github.com/seodaewon1/seodaewon1)   
+[Git Hub]<br/>(https://github.com/seodaewon1/seodaewon1)   
 
-[Main]   (https://seodaewon1.github.io/class2024/)     
+[Main]<br/>(https://seodaewon1.github.io/class2024/)     
 
-[YoutubeAPi] (https://github.com/seodaewon1/attraction)
+[YoutubeAPi]<br/> (https://github.com/seodaewon1/attraction)
 
-[PlayList] (https://github.com/seodaewon1/playlist)   
+[PlayList]<br/> (https://github.com/seodaewon1/playlist)   
 
-[MOVIE] (https://github.com/seodaewon1/mvking-vue)
+[MOVIE]<br/> (https://github.com/seodaewon1/mvking-vue)
 
-[PROFILE-Vue] (https://github.com/seodaewon1/vue-port)   
+[PROFILE-Vue]<br/> (https://github.com/seodaewon1/vue-port)   
 
-[PHP] (http://eodnjs1019.dothome.co.kr/)
+[PHP]<br/> (http://eodnjs1019.dothome.co.kr/)
 
-[MySQL] (https://seodaewon1.github.io/class2024/mysql/index.html)  
+[MySQL]<br/> (https://seodaewon1.github.io/class2024/mysql/index.html)  
 
-[Quiz] (https://seodaewon1.github.io/class2024/quiz/index.html)
+[Quiz]<br/> (https://seodaewon1.github.io/class2024/quiz/index.html)
 
 ## 📝 My blog
 (https://seodaewon1.github.io)   
