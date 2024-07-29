@@ -33,7 +33,7 @@ GitHb 메인 페이지입니다.
 ### WHAT TO WEAR
 REACT와 YOUTUBE API를 이용하여 제작한 옷 추천 사이트입니다.   
 [WEB] (https://github.com/seodaewon1/attraction)   
-[SITE] (https://attraction-three.vercel.app/)   
+[SITE] (https://attraction-rosy.vercel.app/)   
 
 ### PlayList   
 REACT를 활용하여 제작한 Play List 사이트입니다.   
@@ -47,8 +47,8 @@ VUE.js를 활용하여 제작한 영화 순위 사이트입니다.
 
 ### PROFILE-Vue    
 VUE.js를 활용하여 제작한 포트폴리오 제작 사이트입니다.   
-[WEB] (https://vue-port-sandy.vercel.app/)   
-[SITE] (https://github.com/seodaewon1/vue-port)      
+[WEB] (https://github.com/seodaewon1/vue-port)   
+[SITE] (https://vue-port-sandy.vercel.app/)      
 
 ### PHP   
 PHP를 이용하여 제작하였고 dothome에 서버를 저장한 블로그입니다.    
