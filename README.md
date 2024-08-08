@@ -8,7 +8,6 @@
 </h2></div>
 
 ## 💻 Skill
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
@@ -16,6 +15,10 @@
 <img alt="git" src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" height="25px"/>    
 
 ## Portfolio
+(https://portfolio-hezy.vercel.app/)
+
+## Project
+
 ### BOOKING  
 자격증 책들을 모아 각각 사이트에서 순위와 가격을 비교해주는 사이트입니다.   
 [WEB] (https://github.com/seodaewon1/booking)   
