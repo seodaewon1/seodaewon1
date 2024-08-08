@@ -15,7 +15,7 @@
 <img alt="git" src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" height="25px"/>    
 
 ## Portfolio
-React를 기반으로 gsap효과를 활용하여 부드럽고 화려한 애니메이션으로 제작한 포트폴리오입니다.
+React를 기반으로 gsap효과를 활용하여 부드럽고 화려한 애니메이션으로 제작한 포트폴리오입니다.   
 (https://portfolio-hezy.vercel.app/)
 
 ## Project
